@@ -10,8 +10,7 @@ export default function HomeScreen() {
         <View
             style={styles.container}
             lightColor="rgba(255,255,255,0.1)"
-            darkColor="#eeeccc"
-        >
+            darkColor="#eeeccc">
             {/* <ScrollView> */}
             <Image
                 style={styles.image}
