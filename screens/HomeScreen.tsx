@@ -4,6 +4,7 @@ import { ScrollView } from "react-native-gesture-handler";
 
 import EditScreenInfo from "../components/EditScreenInfo";
 import { Text, View } from "../components/Themed";
+import ThemeColor from "../constants/Colors";
 
 export default function HomeScreen() {
     return (
@@ -12,10 +13,7 @@ export default function HomeScreen() {
             lightColor="rgba(255,255,255,0.1)"
             darkColor="#eeeccc">
             {/* <ScrollView> */}
-            <Image
-                style={styles.image}
-                source={require("../assets/images/logo-pib.jpg")}
-            />
+                <Image style={styles.image} source={require("../assets/images/logo-pib.jpg")}/>
             {/* </ScrollView> */}
         </View>
     );
