@@ -3,8 +3,8 @@
   "expoServerPort": 19000,
   "packagerPort": 19001,
   "packagerPid": 5940,
-  "expoServerNgrokUrl": null,
-  "packagerNgrokUrl": null,
-  "ngrokPid": null,
+  "expoServerNgrokUrl": "https://68-458.anonymous.pib-bvp.exp.direct",
+  "packagerNgrokUrl": "https://packager.68-458.anonymous.pib-bvp.exp.direct",
+  "ngrokPid": 5352,
   "webpackServerPort": null
 }
