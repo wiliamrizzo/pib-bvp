@@ -6,5 +6,5 @@
   "expoServerNgrokUrl": "https://68-458.anonymous.pib-bvp.exp.direct",
   "packagerNgrokUrl": "https://packager.68-458.anonymous.pib-bvp.exp.direct",
   "ngrokPid": 5352,
-  "webpackServerPort": null
+  "webpackServerPort": 19006
 }

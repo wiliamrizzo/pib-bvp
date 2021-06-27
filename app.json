@@ -27,6 +27,7 @@
     },
     "android": {
       "package": "com.wiliam.rizzo.PIBBVP"
-    }
+    },
+    "description": ""
   }
 }
