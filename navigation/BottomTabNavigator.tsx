@@ -45,14 +45,14 @@ export default function BottomTabNavigator() {
           tabBarIcon: ({ color }) => <TabBarIcon name="ios-calendar" color={color} />,
         }}
       />
-            <BottomTab.Screen
+      <BottomTab.Screen
         name="Oracao"
         component={OracaoNavigator}
         options={{
           tabBarIcon: ({ color }) => <TabBarIcon name="ios-book" color={color} />,
         }}
       />
-            <BottomTab.Screen
+      <BottomTab.Screen
         name="Mais"
         component={MaisNavigator}
         options={{
