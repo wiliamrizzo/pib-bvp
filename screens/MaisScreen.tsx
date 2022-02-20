@@ -15,8 +15,8 @@ export default function MaisScreen() {
                     darkColor="#000"
                 ></View>
                 {/* <Text style={styles.title}>Teste teste teste</Text>
-        <View style={styles.separator} lightColor="#eee" darkColor="rgba(255,255,255,0.1)" />
-        <EditScreenInfo path="/screens/TabTwoScreen.js" /> */}
+                    <View style={styles.separator} lightColor="#eee" darkColor="rgba(255,255,255,0.1)" />
+                    <EditScreenInfo path="/screens/TabTwoScreen.js" /> */}
             </View>
         </ScrollView>
     );
